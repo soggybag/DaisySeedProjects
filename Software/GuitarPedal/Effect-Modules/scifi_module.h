@@ -12,7 +12,8 @@
 // The scifi module is 3 effects in one, a polyoctave into reverb into overdrive.
 
 //
-// NOTE: This the octave effect code was adapted from https://github.com/schult/terrarium-poly-octave
+// NOTE: This the octave effect code was adapted 
+// from https://github.com/schult/terrarium-poly-octave
 //       (Under the MIT License)
 
 using namespace daisysp;
